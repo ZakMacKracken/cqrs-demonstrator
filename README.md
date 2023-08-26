@@ -1,6 +1,7 @@
 # cqrs-demonstrator
 
-# Todo
+## Todo
+
 - [x] gpg key
 - [ ] CQRS verstehen
 - [ ] CQRS mit PodMan aufbauen
